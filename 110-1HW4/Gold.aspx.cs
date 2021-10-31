@@ -36,9 +36,9 @@ namespace _110_1HW4
             ia_Arr[3] = 9;
             ia_Arr[4] = 10;
             ia_Arr[5] = 15;
-            ia_Arr[5] = 16;
-            ia_Arr[5] = 19;
-            ia_Arr[5] = 26;
+            ia_Arr[6] = 16;
+            ia_Arr[7] = 19;
+            ia_Arr[8] = 26;
 
         }
 
